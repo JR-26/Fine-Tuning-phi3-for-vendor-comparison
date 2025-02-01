@@ -1,5 +1,7 @@
 Vendor Comparison using Fine-tuned Phi3 Model
 Project Overview
+
+
 This project focuses on fine-tuning the Phi3 model for vendor comparison. Data was collected from IndiaMART, and the model was optimized using Unsloth. After fine-tuning, the model achieved an accuracy of 94%, providing efficient vendor recommendations based on the dataset.
 
 Key Features
